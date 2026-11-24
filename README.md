@@ -66,7 +66,4 @@ These slicers allow users to interact with the dashboard and analyze data for se
 ## Project Purpose
 This project was developed as part of my Data Analytics learning journey to gain practical experience in data analysis, data visualization, DAX calculations, and dashboard development using Power BI.
 
-## Author
-**Santhosh S.**
 
-Aspiring Data Analyst
